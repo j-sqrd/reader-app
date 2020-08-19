@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "email": "joshsmithsp@gmail.com"
+    },
+    "userBooks": {
+        "books": [
+            {
+                "bookID": 10001,
+                "title": "The Ready Made Theif",
+                "coverImg": "assets/images/book-cover.jfif",
+                "progress": 53,
+                "startDate": "8/14/2020",
+                "totalElapsedTime": "5:20"
+            },
+            {
+                "bookID": 10002,
+                "title": "Star Gazing",
+                "coverImg": "assets/images/cover2.jpg",
+                "progress": 23,
+                "startDate": "8/14/2020",
+                "totalElapsedTime": "2:36"
+            }
+        ]
+    }
+}

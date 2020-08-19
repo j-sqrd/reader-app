@@ -1,0 +1,67 @@
+{
+    "meta": {
+        "bookTitle": "The Ready Made Theif",
+        "bookID": 10001,
+        "sentences": 5,
+        "difficulty": "Easy"
+    },
+    "book": {
+        "sentences": [
+            {
+                "sentenceID": 1,
+                "wordCount": 6,
+                "imgURL": "https://www.freeimages.com/photo/mountains-1362783",
+                "wordList": [
+                    "the",
+                    "dog",
+                    "ran",
+                    "over",
+                    "the",
+                    "mountain"
+                ]
+            },
+            {
+                "sentenceID": 2,
+                "wordCount": 5,
+                "imgURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwagwalking.com%2Fsymptom%2Fwhy-is-my-dog-panting-&psig=AOvVaw1JndNd2Y2_8u7dQarNNoqC&ust=1597601230938000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjf_8LmnesCFQAAAAAdAAAAABAD",
+                "wordList": [
+                    "he",
+                    "is",
+                    "out",
+                    "of",
+                    "breath"
+                ]
+            },
+            {
+                "sentenceID": 3,
+                "wordCount": 4,
+                "imgURL": "https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.pngmart.com%2Fimage%2F148454&psig=AOvVaw2us907vevJu3OuGTjfjcpi&ust=1597601205565000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMit07fmnesCFQAAAAAdAAAAABAD",
+                "wordList": [
+                    "the",
+                    "dog",
+                    "sat",
+                    "down"
+                ]
+            },
+            {
+                "sentenceID": 4,
+                "wordCount": 3,
+                "imgURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alamy.com%2Fthirsty-dog-image283535599.html&psig=AOvVaw2JsGJqQkLPzHk0KzgKkMoU&ust=1597601145260000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDY95vmnesCFQAAAAAdAAAAABAD",
+                "wordList": [
+                    "he",
+                    "wants",
+                    "water"
+                ]
+            },
+            {
+                "sentenceID": 5,
+                "wordCount": 2,
+                "imgURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.akc.org%2Fexpert-advice%2Fhealth%2Fcan-dogs-drink-much-water-dangers-water-intoxication%2F&psig=AOvVaw34tlUeP9z6kd_s3AHB5Jxg&ust=1597601125730000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNC6qpDmnesCFQAAAAAdAAAAABAD",
+                "wordList": [
+                    "great",
+                    "water"
+                ]
+            }
+        ]
+    }
+}
